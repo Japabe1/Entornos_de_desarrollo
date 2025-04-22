@@ -19,14 +19,14 @@ public class Calculadora {
     //Función para entrada del primer dato double
     public static double dato1(){
         double numero;
-        System.out.println("Introduce el primer número: ");
+        System.out.println("Introduce el primer número por consola: ");
         numero = teclado.nextDouble();
         return numero;
     }
     //Función para la entrada del segundo dato double
     public static double dato2(){
         double numero;
-        System.out.println("Introduce el segundo número: ");
+        System.out.println("Introduce el segundo número por consola: ");
         numero = teclado.nextDouble();
         return numero;
     }
